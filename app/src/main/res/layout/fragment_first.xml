@@ -11,13 +11,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Welcome to my quiz"
-        app:layout_constraintBottom_toTopOf="@id/next"
+        app:layout_constraintBottom_toTopOf="@id/pushHereToStart"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/next"
+        android:id="@+id/pushHereToStart"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Push her to start"
