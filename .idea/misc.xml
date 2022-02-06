@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/sigva/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/sigva/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/sigva/AndroidStudioProjects/QuizApp/app/src/main/res/layout/content_main.xml" value="0.13994565217391305" />
-        <entry key="..\:/Users/sigva/AndroidStudioProjects/QuizApp/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/sigva/AndroidStudioProjects/QuizApp/app/src/main/res/layout/database_activity.xml" value="0.2871376811594203" />
+        <entry key="..\:/Users/sigva/AndroidStudioProjects/QuizApp/app/src/main/res/layout/fragment_first.xml" value="0.22" />
         <entry key="..\:/Users/sigva/AndroidStudioProjects/QuizApp/app/src/main/res/layout/fragment_second.xml" value="0.13994565217391305" />
         <entry key="..\:/Users/sigva/AndroidStudioProjects/QuizApp/app/src/main/res/menu/menu_main.xml" value="0.18489583333333334" />
       </map>

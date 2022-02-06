@@ -7,9 +7,9 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.example.quizapp.FirstFragment"
+        android:name="com.example.quizapp.StartQuizActivity"
         android:label="@string/first_fragment_label"
-        tools:layout="@layout/fragment_first">
+        tools:layout="@layout/startQuiz_activity">
 
         <action
             android:id="@+id/action_FirstFragment_to_SecondFragment"
@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="com.example.quizapp.SecondFragment"
+        android:name="com.example.quizapp.QuizActivity"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second">
 
